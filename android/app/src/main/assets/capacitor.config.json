@@ -1,0 +1,8 @@
+{
+	"appId": "com.fishai.redorange",
+	"appName": "年轻用户记账App UI",
+	"webDir": "build",
+	"server": {
+		"androidScheme": "https"
+	}
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">年轻用户记账App UI</string>
+    <string name="title_activity_main">年轻用户记账App UI</string>
+    <string name="package_name">com.fishai.redorange</string>
+    <string name="custom_url_scheme">com.fishai.redorange</string>
+</resources>
